@@ -1,10 +1,11 @@
 .all{
     display: flex;
-    height: 15vh;
+    height: 10vh;
     background-color: black;
     color: white;
     .title{
         margin-left: 1.5rem;
+        margin-top: -1rem;
         h1{
             font-size: 36px;
             font-weight: 700;
@@ -13,7 +14,7 @@
     .options{
         margin-left: auto;
         display: flex;
-        margin-top: 1.8rem;
+        margin-top: 1rem;
         margin-right: 1rem;
         a{
             margin-right: 1rem;
